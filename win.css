@@ -1,0 +1,25 @@
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align:justify;
+}
+
+h1 {
+	color: green;
+}
+
+p {
+	font-family: 'Arial' ;
+	font-size: 30px;
+	color: grey;
+}
+
+li {
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 20px;
+}
+
+a:link{
+	font-size: 25px;
+	font-family: Consolas, monaco, monospace;
+}
